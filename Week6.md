@@ -38,8 +38,6 @@ fio --name=test --rw=readwrite --bs=4k --size=500M
 Network test:
 iperf3 -s (on server)
 iperf3 -c SERVER-IP (on workstation)
-Web server load:
-ab -n 1000 -c 50 http://SERVER-IP/
 
 ---
 
