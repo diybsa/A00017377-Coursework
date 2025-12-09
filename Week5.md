@@ -73,3 +73,4 @@ Later I can use this data to make charts in Week 6.
 ## Reflection 
 
 This week I added multiple security layers to protect the server. I also made scripts to automatically check if my security settings are correct and to monitor performance. These tools will help me in Week 6 and Week 7.
+<img width="732" height="512" alt="image" src="https://github.com/user-attachments/assets/3f1e958f-e888-467e-9e6e-45ca340b0ed4" />
