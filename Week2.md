@@ -46,6 +46,7 @@ All monitoring will be done from my Windows workstation using SSH.
 ### Access Control:
 - use AppArmor (already included in Ubuntu)
 - check profile status for services
+<img width="459" height="221" alt="image" src="https://github.com/user-attachments/assets/15fd5d2c-5202-41fd-a7e2-80e4a8f7ad27" />
 
 ### Automatic Updates:
 - enable unattended upgrades
