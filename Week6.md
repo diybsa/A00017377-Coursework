@@ -68,7 +68,7 @@ Later I will turn these into charts such as:
 
 ---
 
-## 5. Optimisation (2 examples)
+## 5. Optimisation 
 
 ### Example 1 – Lower swappiness
 sudo sysctl vm.swappiness=10
@@ -78,6 +78,7 @@ Helps the system avoid swapping too early.
 I increased nginx worker connections to handle more load.
 
 ---
+<img width="536" height="312" alt="image" src="https://github.com/user-attachments/assets/1b4c437a-ee61-49cd-85b4-cb8608a9a1ae" />
 
 ## Reflection 
 
