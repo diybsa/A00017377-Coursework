@@ -55,6 +55,6 @@ All monitoring will be done remotely using SSH.
 
 ---
 
-## Reflection (Short)
+## Reflection
 
 This week I selected the tools I will use for performance testing. I now understand which tool stresses which part of the system. This will help me collect useful results in Week 6 when I run the actual tests.
