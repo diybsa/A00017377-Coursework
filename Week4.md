@@ -54,6 +54,7 @@ sudo ufw allow from 192.168.1.50 to any port 22
 sudo ufw enable
 
 This blocks all other incoming connections.
+<img width="529" height="387" alt="image" src="https://github.com/user-attachments/assets/19cdc2ae-7d38-4d2e-8bbb-c3b56d1dfa44" />
 
 ---
 
