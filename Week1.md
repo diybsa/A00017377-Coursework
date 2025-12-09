@@ -53,7 +53,7 @@ These commands show:
 - IP address  
 - Ubuntu version  
 
-## 6. Reflection (Short)
+## 6. Reflection 
 
 This week I planned the setup and understood how the server and workstation will communicate.  
 I also confirmed why Ubuntu Server is the best option and learned how to check system details using basic Linux commands.
