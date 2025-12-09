@@ -70,6 +70,6 @@ Later I can use this data to make charts in Week 6.
 
 ---
 
-## Reflection (Short)
+## Reflection 
 
 This week I added multiple security layers to protect the server. I also made scripts to automatically check if my security settings are correct and to monitor performance. These tools will help me in Week 6 and Week 7.
