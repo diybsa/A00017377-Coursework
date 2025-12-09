@@ -57,7 +57,7 @@ This blocks all other incoming connections.
 
 ---
 
-## 5. Evidence (Short)
+## 5. Evidence 
 
 I tested SSH login from Windows using:
 ssh adminuser@SERVER-IP
@@ -72,6 +72,6 @@ These are the screenshots I will include in GitHub when I finish the setup.
 
 ---
 
-## Reflection (Short)
+## Reflection
 
 This week I learned how to secure SSH using keys, disable passwords, create a safer admin account, and control access using the firewall. I also learned how easy it is to accidentally lock yourself out, so testing step-by-step is important.
