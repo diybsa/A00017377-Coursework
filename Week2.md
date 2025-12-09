@@ -62,7 +62,7 @@ All monitoring will be done from my Windows workstation using SSH.
 
 ---
 
-## 3. Threat Model (Simple explanation)
+## 3. Threat Model 
 
 ### Threat 1: Brute-force SSH attacks
 Attackers might try lots of passwords.
