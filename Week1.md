@@ -2,7 +2,7 @@
 
 # Week 1 – System Planning & Setup
 
-## 1. System Architecture (Simple Explanation)
+## 1. System Architecture 
 
 I am using two systems:
 
@@ -58,3 +58,4 @@ These commands show:
 This week I planned the setup and understood how the server and workstation will communicate.  
 I also confirmed why Ubuntu Server is the best option and learned how to check system details using basic Linux commands.
 
+<img width="731" height="479" alt="image" src="https://github.com/user-attachments/assets/bd35aa02-7c8b-4c17-b87d-69720ffb6dde" />
