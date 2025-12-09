@@ -81,3 +81,4 @@ Wrong permissions or services running.
 ## Reflection 
 
 This week I planned my security setup before changing anything. I wrote a checklist and identified possible security threats. This helps make sure my system becomes secure step by step and reduces the chance of mistakes later.
+<img width="739" height="492" alt="image" src="https://github.com/user-attachments/assets/75f67b52-e0cb-484a-8ebf-5699df866aec" />
